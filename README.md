@@ -1,2 +1,2 @@
-# webdesigningidailylife.github.io
+# webdesigningindailylife.github.io
 The website for web design
